@@ -1,0 +1,19 @@
+spring:
+  cloud:
+    config:
+      name: ${spring.application.name}
+  jackson:
+    serialization:
+      write-dates-as-timestamps: false
+server:
+  servlet:
+    context-path: ${application.deimos.api.path}
+springfox:
+  documentation:
+    swagger:
+      v2:
+        path: ${application.deimos.api.path}/swagger/swagger2.json
+management:
+  endpoints:
+    web:
+      base-path: ${application.deimos.api.path}/actuator
