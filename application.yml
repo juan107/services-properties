@@ -17,3 +17,11 @@ management:
   endpoints:
     web:
       base-path: ${application.deimos.api.path}/actuator
+application:
+  http-client:
+    deimos:
+      error-catalog:
+        base-url: http://localhost:9007
+        connect-timeout: 300
+        read-timeout: 1200
+        write-timeout: 700
