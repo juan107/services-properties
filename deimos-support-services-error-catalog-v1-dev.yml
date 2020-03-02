@@ -1,5 +1,5 @@
 systemErrorList:
 - errorCode: NEG001
-  description: Error de negocio 001
+  description: Error de negocio de prueba de cambio variable
   errorTypeCode: NEGOCIO
   severityCode: Bajo
