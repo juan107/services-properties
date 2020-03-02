@@ -1,0 +1,5 @@
+systemErrorList:
+- errorCode: NEG001
+  description: Error de negocio 001
+  errorTypeCode: NEGOCIO
+  severityCode: Bajo
