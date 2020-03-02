@@ -24,4 +24,8 @@ application:
         base-url: http://localhost:9007
         connect-timeout: 300
         read-timeout: 1200
+<<<<<<< HEAD:application.yml
         write-timeout: 700
+=======
+        write-timeout: 700
+>>>>>>> 1fb7b74be6300bd788d2a6489d3afdbaeb7a2516:application-local.yml
