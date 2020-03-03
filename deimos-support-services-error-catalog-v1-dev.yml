@@ -7,7 +7,7 @@ systemErrorList:
   description: Segundo error de negocio para prueba de Actuators
   errorTypeCode: TECNICO
   severityCode: Alto
-- errorCode: NEG003
+- errorCode: NEG008
   description: Tercer error de negocio para prueba de Actuators
   errorTypeCode: TECNICO
   severityCode: Medio
