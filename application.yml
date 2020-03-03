@@ -18,7 +18,7 @@ management:
     web:
       base-path: ${application.deimos.api.path}/actuator
       exposure:
-        include: *
+        include: '*'
 application:
   http-client:
     deimos:
