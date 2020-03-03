@@ -19,3 +19,7 @@ systemErrorList:
   description: Quinto error de negocio para prueba de Actuators
   errorTypeCode: TECNICO
   severityCode: Medio
+- errorCode: NEG006
+  description: Sexto error de negocio para prueba de Actuators
+  errorTypeCode: TECNICO
+  severityCode: Medio
