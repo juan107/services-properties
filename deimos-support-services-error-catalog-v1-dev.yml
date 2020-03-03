@@ -11,3 +11,11 @@ systemErrorList:
   description: Tercer error de negocio para prueba de Actuators
   errorTypeCode: TECNICO
   severityCode: Medio
+- errorCode: NEG004
+  description: Cuarto error de negocio para prueba de Actuators
+  errorTypeCode: TECNICO
+  severityCode: Medio
+- errorCode: NEG005
+  description: Quinto error de negocio para prueba de Actuators
+  errorTypeCode: TECNICO
+  severityCode: Medio
