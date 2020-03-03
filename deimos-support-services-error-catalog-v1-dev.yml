@@ -3,3 +3,7 @@ systemErrorList:
   description: Error de negocio de prueba de cambio variable
   errorTypeCode: NEGOCIO
   severityCode: Bajo
+- errorCode: NEG002
+  description: Segundo error de negocio para prueba de Actuators
+  errorTypeCode: TECNICO
+  severityCode: Alto
